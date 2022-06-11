@@ -71,7 +71,7 @@ write(sum);
 END
 
 
-############################# HASHING METHOD  #######################
+############################# HASHING METHOD (2) #######################
 
 
 ALGORITHM SUM_OF_DISTINCT_NUM
